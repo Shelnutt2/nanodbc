@@ -5,6 +5,7 @@ language: cpp
 
 branches:
   only:
+    - fix-ci-tests
     - master
     - latest
     - release
